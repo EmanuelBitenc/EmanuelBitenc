@@ -31,39 +31,5 @@
 - **Metodologias:** Scrum
 - **Ferramentas de versionamento:** Git
 
-## Experiência de Trabalho
-
-### Desenvolvedor de Software - React | TypeScript | Chakra.ui | Figma | Scrum | Git
-
-**ENGEFOTO Engenharia e Aerolevantamentos Ltda.**  
-
-- Implementação de interfaces e resolução de correções no sistema.
-- Utilização de tecnologias como React e TypeScript, além de bibliotecas como o Chakra.ui.
-- Colaboração no design das telas, utilizando a plataforma Figma.
-- Aplicação de metodologias ágeis, como Scrum.
-- Utilização de ferramentas de versionamento como Git.
-
-### Analista de TI - SCRUM | Figma | Requisitos | Product Owner
-
-**STE - Serviços Técnicos de Engenharia S/A**  
-
-- Definição e supervisão do desenvolvimento de requisitos e projetos.
-- Comunicação direta e eficiente com os stakeholders.
-- Prototipagem das interfaces do sistema por meio da plataforma Figma.
-- Implementação de interfaces utilizando tecnologias como React e TypeScript.
-
-## Formação Acadêmica
-
-### MBA USP/Esalq
-
-Pós-graduação Lato Sensu - MBA, Engenharia de Software  
-
-### Origamid
-
-Curso, Front End e UI Design - Figma | JavaScript | React | TypeScript
-
-### Senac DF
-Graduação - Análise e Desenvolvimento de Sistemas 
- 
 
 </div>
