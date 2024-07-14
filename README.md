@@ -1,7 +1,7 @@
 ## Olá, Sou Emanuel Bitencourt Magalhães
  <div>
   <div style="display:flex">
-    <img height="180em" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBitenc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelBitenc&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
    <p> Sou um desenvolvedor e analista de sistemas experiente, tendo atuado como product owner, responsável por definir e acompanhar o desenvolvimento dos requisitos e projetos. Na esfera do design, exerço a função de UI, implementando interfaces intuitivas. No desenvolvimento front-end, atuo na implementação de interfaces de usuário, utilizando tecnologias como React e TypeScript.</p> 
  </div>
 
