@@ -2,7 +2,9 @@
  <div>
   <div style="display:flex">
   <img height="180em" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelBitenc&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-   <p> Sou um desenvolvedor e analista de sistemas experiente, tendo atuado como product owner, responsável por definir e acompanhar o desenvolvimento dos requisitos e projetos. Na esfera do design, exerço a função de UI, implementando interfaces intuitivas. No desenvolvimento front-end, atuo na implementação de interfaces de usuário, utilizando tecnologias como React e TypeScript.</p> 
+   <p> Desenvolvedor e analista de sistemas, com experiência em desenvolvimento de software front-end. Especializado na implementação de interfaces usando tecnologias como React e TypeScript. 
+
+Na área de design, atuei como UI Designer, criando protótipos de interfaces intuitivas com o Figma. Além disso, tenho experiência como Product Owner, sendo responsável por definir e acompanhar o desenvolvimento de requisitos e projetos.</p> 
  </div>
 
 
