@@ -28,7 +28,7 @@ Na área de design, atuei como UI Designer, criando protótipos de interfaces in
 
 **Tecnologias:**
 
-- **FrameWorks:** React.js, Chakra.ui
+- **Techs:** React.js, Chakra.ui
 - **Ferramentas de design:** Figma
 - **Metodologias:** Scrum
 - **Ferramentas de versionamento:** Git
