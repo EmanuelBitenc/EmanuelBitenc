@@ -24,14 +24,13 @@ Na área de design, atuei como UI Designer, criando protótipos de interfaces in
  
 ## Tecnologias e Linguagens
 
-**Linguagens:** JavaScript, TypeScript
+- **Front-end:** React.js, Next.js, TypeScript, JavaScript, HTML5/CSS3, Chakra UI, Shadcn, Tailwind CSS.
+- **Back-end e Banco de Dados:** Java, APIs RESTful, SQL, DBeaver.
+- **Testes e Qualidade:** Cypress (E2E), Clean Code, Arquitetura de Componentes.
+- **Design e UI/UX:** Figma, UI Design, Design Web Responsivo.
+- **DevOps e Ferramentas:** Git, GitLab (CI/CD), Docker, Vercel.
+- **Metodologias:** Scrum, Kanban, Ágil (Agile).
 
-**Tecnologias:**
-
-- **Tech's:** React.js, Chakra.ui
-- **Ferramentas de design:** Figma
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas de versionamento:** Git
 
 
 </div>
